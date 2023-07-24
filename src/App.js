@@ -12,7 +12,7 @@ function App() {
       <Layouting>
       <Routes>
 
-        <Route path="/reactJs-meetupApp" element={<AllMeetupsing />} />
+        <Route path="/" element={<AllMeetupsing />} />
         <Route path="/faving" element={<Favoring />} />
         <Route path="/newing" element={<NewMeetupsing />} />
       </Routes>
