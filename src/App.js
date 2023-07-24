@@ -11,6 +11,7 @@ function App() {
     <div>
       <Layouting>
       <Routes>
+        
         <Route path="/" element={<AllMeetupsing />} />
         <Route path="/faving" element={<Favoring />} />
         <Route path="/newing" element={<NewMeetupsing />} />
