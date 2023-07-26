@@ -29,7 +29,7 @@ const MainNaving = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/">All Meetups</Link>
+            <Link to="/reactJs-meetupApp">All Meetups</Link>
           </li>
           <li>
             <Link to="newing">Add New Meetups</Link>
